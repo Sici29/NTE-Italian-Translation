@@ -234,6 +234,9 @@ def is_game_running() -> bool:
     return False
 
 def get_payload_pak_path() -> Path:
+    if getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS'):
+        return Path(sys._MEIPASS) / "payload" / PATCH_PAK_NAME
+
     root = get_script_root()
     # 1. Cartella payload
     payload_pak = root / "payload" / PATCH_PAK_NAME
