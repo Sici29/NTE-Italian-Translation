@@ -4,6 +4,19 @@
 [![License: MIT](https://img.shields.io/badge/Licenza-MIT-green.svg)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Offrimi%20un%20caff%C3%A8-☕-orange.svg)](https://buymeacoffee.com/sici29)
 
+<!-- gioca-in-italiano:inizio -->
+<p align="center"><a href="https://sici29.github.io/gioca-in-italiano/"><img src="https://sici29.github.io/gioca-in-italiano/img/banner.jpg" alt="Gioca in Italiano: tutte le traduzioni italiane di Sici29 in un'app sola" width="100%"></a></p>
+
+> [!TIP]
+> **Tutte le mie traduzioni in un'app sola: [Gioca in Italiano](https://sici29.github.io/gioca-in-italiano/)**
+>
+> Installa e aggiorna questa traduzione con un clic, ti avvisa quando esce una nuova versione e ti fa scoprire le altre: [Aniimo](https://sici29.github.io/gioca-in-italiano/aniimo/), [Fatekeeper](https://sici29.github.io/gioca-in-italiano/fatekeeper/), [ARK: Survival Ascended](https://sici29.github.io/gioca-in-italiano/ark-survival-ascended/) e [Star Citizen](https://sici29.github.io/gioca-in-italiano/star-citizen/).
+>
+> **Manca il tuo gioco?** [Proponilo](https://sici29.github.io/gioca-in-italiano/#proponi) e vota quelli proposti dagli altri: i più votati diventano le prossime traduzioni.
+>
+> **[⬇ Scarica Gioca in Italiano](https://github.com/Sici29/gioca-in-italiano/releases/latest/download/GiocaInItaliano.exe)** · gratis, per Windows 10 e 11
+<!-- gioca-in-italiano:fine -->
+
 Traduzione italiana amatoriale completa, professionale e pronta all'uso per **Neverness to Everness (NTE)**.
 
 [☕ **Offrimi un caffè e sostieni le future traduzioni**](https://buymeacoffee.com/sici29)
