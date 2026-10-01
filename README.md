@@ -21,13 +21,13 @@ Traduzione italiana amatoriale completa, professionale e pronta all'uso per **Ne
 
 [☕ **Offrimi un caffè e sostieni le future traduzioni**](https://buymeacoffee.com/sici29)
 
-Progetto sviluppato da **Sici29** e distribuito con installer automatico interattivo per Windows (Release **v1.0.0**).
+Progetto sviluppato da **Sici29** e distribuito con installer automatico interattivo per Windows (Release **v1.2**).
 
 ---
 
 ## ✨ Caratteristiche della Traduzione
 
-- **Copertura Totale (100%)**: Tutte le **100.848 voci** del gioco sono state interamente localizzate e revisionate in italiano con standard qualitativo AAA.
+- **Copertura Totale (100%)**: Tutte le **110.260 voci** del gioco sono state interamente localizzate e revisionate in italiano con standard qualitativo AAA.
 - **Interfaccia, HUD & Menu**: Menu principale, schermate di caricamento, pop-up di sistema, impostazioni audio/video e comandi completamente in italiano.
 - **Storia Principale & Prologo**: Campagna principale doppiata testualmente con massima fedeltà narrativa e cinematografica.
 - **Missioni Secondarie & Leggende**: Tutte le quest opzionali, le investigazioni urbane e le storie dei personaggi.

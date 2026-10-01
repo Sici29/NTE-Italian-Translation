@@ -26,7 +26,7 @@ if sys.platform == "win32":
         pass
 
 APP_NAME = "Neverness to Everness - Traduzione Italiana"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.2.0"
 AUTHOR = "Sici29"
 GITHUB_REPO = "https://github.com/Sici29/NTE-Italian-Translation"
 DONATION_URL = "https://buymeacoffee.com/sici29"
