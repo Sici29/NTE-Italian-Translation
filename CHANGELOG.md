@@ -4,6 +4,18 @@ Tutte le modifiche degne di nota a questo progetto saranno documentate in questo
 
 ---
 
+## [1.3.0] - 2026-10-21
+
+### Aggiunto & Aggiornato
+- **Allineamento Patch Ufficiale 21/10/2026 (113.044 stringhe totali)**:
+  - Traduzione completa dell'evento centenario "Celebrazione della Leggenda" (ST_Legend_Celebration).
+  - Nuove missioni affinità e storie legate ad Akane Rin (ST_Likingquest_Akane).
+  - Nuovi dialoghi ambientali, passanti e chat urbane.
+  - Aggiornamento e ribilanciamento descrizioni abilità ed effetti di combattimento.
+  - Normalizzazione ufficiale del nome del personaggio in **Akane Rin** (allineato alle versioni EN, ES e FR).
+  - Piena gestione dei bivi di genere dinamico maschile/femminile (<male=>...<male><female=>...<female>) validati su parallelo spagnolo e francese.
+
+---
 ## [1.0.0] - 2026-09-21
 
 ### Aggiunto
