@@ -21,7 +21,7 @@ Traduzione italiana amatoriale completa, professionale e pronta all'uso per **Ne
 
 [☕ **Offrimi un caffè e sostieni le future traduzioni**](https://buymeacoffee.com/sici29)
 
-Progetto sviluppato da **Sici29** e distribuito con installer automatico interattivo per Windows (Release **v1.3**).
+Progetto sviluppato da **Sici29** e distribuito con installer automatico interattivo per Windows (Release **v1.4**).
 
 ---
 

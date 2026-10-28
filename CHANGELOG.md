@@ -4,6 +4,17 @@ Tutte le modifiche degne di nota a questo progetto saranno documentate in questo
 
 ---
 
+## [1.4.0] - 2026-10-28
+
+### Aggiunto & Aggiornato
+- **Allineamento Patch Ufficiale 28/10/2026 (Build 26207100 - 113.044 stringhe totali)**:
+  - Estrazione diretta dal nuovo template binario IoStore (game.locres) aggiornato a 186 namespace e 93.084 stringhe univoche (risolte tutte le voci mancanti).
+  - Revisione e completamento integrale in italiano di oltre 4.600 stringhe residue (quest BlackBird, descrizioni abilità, dialoghi NPC e chat urbane).
+  - Piena concordanza e verifica incrociata dinamica di genere maschile/femminile (<male=>...<male><female=>...<female>) con parallelo spagnolo e francese.
+  - Chiusura universale conforme (</>) dei tag grafici e cromatici Unreal Engine.
+  - Aggiornamento dell'installer autonomo alla versione **v1.4.0** con payload rigenerato.
+
+---
 ## [1.3.0] - 2026-10-21
 
 ### Aggiunto & Aggiornato
