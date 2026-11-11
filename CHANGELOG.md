@@ -4,6 +4,18 @@ Tutte le modifiche degne di nota a questo progetto saranno documentate in questo
 
 ---
 
+## [1.5.0] - 2026-11-11
+
+### Aggiunto & Aggiornato
+- **Allineamento Patch Ufficiale 11/11/2026 (Build 26576283 - 121.528 stringhe totali)**:
+  - Oltre **8.480 nuove stringhe** ed espansione a 195 namespace (99.918 stringhe univoche tradotte).
+  - Traduzione integrale del nuovo capitolo di storia principale ST_Main_Exe01 (oltre 2.500 dialoghi).
+  - Traduzione completa del nuovo minigioco deckbuilder roguelike ST_BalatroLike e relativa interfaccia ST_UI_Balatrolike.
+  - Localizzazione del sistema Centro Logistico (ST_LogisticsCenterUI) e delle nuove abilità di combattimento di **Exe** ed **Elyms**.
+  - Allineati e revisionati oltre 190 bivi dinamici di genere maschile/femminile (<male=>...<male><female=>...<female>) validati sul parallelo spagnolo e francese.
+  - Aggiornamento dell'installer autonomo alla versione **v1.5.0** con payload rigenerato.
+
+---
 ## [1.4.0] - 2026-10-28
 
 ### Aggiunto & Aggiornato
